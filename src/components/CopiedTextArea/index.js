@@ -109,7 +109,7 @@ const CopiedTextArea = () => {
                   variant="outlined"
                   style={{ marginLeft: isLg ? "8px" : "0px" }}
                 >
-                  Paste Remove & Copy
+                  Paste & Remove & Copy
                 </Button>
               </Grid>
             </Grid>
