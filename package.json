@@ -2,7 +2,7 @@
   "name": "json-newline",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hibikikuze4dan.github.io/json-newline/",
+  "homepage": "https://hibikikuze4dan.github.io/json-newline",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
